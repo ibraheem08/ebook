@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79415813615",
+    "project_id": "decors-4ff7f",
+    "storage_bucket": "decors-4ff7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79415813615:android:16e8089fefc5287fa9421a",
+        "android_client_info": {
+          "package_name": "com.example.newww"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRFDlcRRxjmGBDIecjaeGSFK1F6K4NmTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
